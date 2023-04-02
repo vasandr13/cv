@@ -1,8 +1,5 @@
 # Andrey Vasilev
 
-
-E-mail:			vasandr13@gmail.com
-
 # Objective
 
 I am looking for creative and challenging Linux Engineer or SRE position in a company with a cutting edge IT-Infrastructure and modern IT-Ecosystem where I could apply my skills and grow as a professional.
