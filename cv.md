@@ -7,7 +7,7 @@ E-mail:			vasandr13@gmail.com
 
 I am looking for creative and challenging Linux Engineer or SRE position in a company with a cutting edge IT-Infrastructure and modern IT-Ecosystem where I could apply my skills and grow as a professional.
  
-Education
+# Education
 
 Moscow Institute of Physics and Technology, State University (MIPT)
 
@@ -18,7 +18,7 @@ Bachelor of Science Degree in Applied Mathematics and Physics, June 1998
 Subjects:
 Extended university courses in physics and mathematics, computational physics and mathematical modeling, discrete mathematics, operating systems, programming languages and algorithms
 
-experience
+# Experience
 
 January 2019 – Present:  Linux Engineer (SRE), “MTS”, Moscow
 
@@ -96,9 +96,9 @@ The “ASA-NAT” Project: in accordance with the lack of the private IPv4 addre
 
 
 
-SKILLS
+# SKILLS
 
-SOFTWARE DEVELOPMENT
+# SOFTWARE DEVELOPMENT
 
 Strong Linux Administration and Linux Kernel tuning skills. 
 
@@ -111,7 +111,7 @@ Have skills providing Java Development Environment and JVM tuning for Apache Had
 Have experience with Databases and SQL for writing queries and administration.
 
 
-INFRASTRUCTURE PROVISIONING FOR SOFTWARE ENGINEERING
+# INFRASTRUCTURE PROVISIONING FOR SOFTWARE ENGINEERING
 
 Linux Flavors (Debian, Ubuntu, CentOS, RedHat, Oracle Linux);
 Big Data Ecosystem (Hadoop, ZooKeeper, HDFS, Spark, MapReduce, YARN, Tez, Oozie, Hive, HBase);
@@ -128,7 +128,7 @@ Building Tools (Maven, Jenkins, Groovy);
 Issues, Bugs and Documentation Management Tools (Jira and Confluence);
 Continuous Integration (CI) and Continuous Delivery (CD) (Jenkins, TeamCity);
 
-ENGLISH
+# ENGLISH
 I am fluent in English and I have two standardized international certificates.
 IELTS Academic and IELTS General.  
 Both of them with a score of 7.5
