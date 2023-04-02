@@ -96,9 +96,9 @@ The “ASA-NAT” Project: in accordance with the lack of the private IPv4 addre
 
 
 
-# SKILLS
+# Skills
 
-# SOFTWARE DEVELOPMENT
+# Software Development
 
 Strong Linux Administration and Linux Kernel tuning skills. 
 
@@ -111,7 +111,7 @@ Have skills providing Java Development Environment and JVM tuning for Apache Had
 Have experience with Databases and SQL for writing queries and administration.
 
 
-# INFRASTRUCTURE PROVISIONING FOR SOFTWARE ENGINEERING
+# Infrastracture Provisioning
 
 Linux Flavors (Debian, Ubuntu, CentOS, RedHat, Oracle Linux);
 Big Data Ecosystem (Hadoop, ZooKeeper, HDFS, Spark, MapReduce, YARN, Tez, Oozie, Hive, HBase);
@@ -128,7 +128,7 @@ Building Tools (Maven, Jenkins, Groovy);
 Issues, Bugs and Documentation Management Tools (Jira and Confluence);
 Continuous Integration (CI) and Continuous Delivery (CD) (Jenkins, TeamCity);
 
-# ENGLISH
+# English
 I am fluent in English and I have two standardized international certificates.
 IELTS Academic and IELTS General.  
 Both of them with a score of 7.5
