@@ -1,2 +1,2 @@
 # cv
-This is my CV or Resume in .doc and .md formats.
+This is my CV or Resume in .doc, .pdf and .md formats.
