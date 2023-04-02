@@ -124,4 +124,4 @@ Issues, Bugs and Documentation Management Tools (Jira and Confluence);
 Continuous Integration (CI) and Continuous Delivery (CD) (Jenkins, TeamCity);
 
 # English
-I am fluent in English and I a standardized IELTS General certificate with a score of 7.0
+I am fluent in English and have valid IELTS General Certificate with a score of 7.0
