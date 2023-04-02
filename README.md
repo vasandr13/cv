@@ -1,2 +1,2 @@
 # cv
-This is my CV or Resume in different formats.
+This is my CV in different formats.
