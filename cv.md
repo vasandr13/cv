@@ -129,10 +129,4 @@ Issues, Bugs and Documentation Management Tools (Jira and Confluence);
 Continuous Integration (CI) and Continuous Delivery (CD) (Jenkins, TeamCity);
 
 # English
-I am fluent in English and I have two standardized international certificates.
-IELTS Academic and IELTS General.  
-Both of them with a score of 7.5
-
-Listening: 8.5 Reading: 8.0 Writing: 6.5 Speaking: 6.5 Total Score: 7.5 (out of 9)
-
-During my studies at MIPT, I had internships in the USA, France and Switzerland, which allowed me to improve my English proficiency for everyday usage and for my future professional career. During my work at Luxoft, I had a tree-month business trip to Germany, which helped me to improve my English proficiency as well.
+I am fluent in English and I a standardized IELTS General certificate with a score of 7.0
