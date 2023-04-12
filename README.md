@@ -1,4 +1,4 @@
-# cv
+# CV
 This is my CV in different formats.
 
 # HH
